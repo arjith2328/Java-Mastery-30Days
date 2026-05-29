@@ -74,13 +74,13 @@ int age = 20;
 ## Double Variable
 
 ```java
-double cgpa = 8.5;
+double cgpa = 9.65;
 ```
 
 ## String Variable
 
 ```java
-String name = "Arjith";
+String name = "THALA";
 ```
 
 ---
